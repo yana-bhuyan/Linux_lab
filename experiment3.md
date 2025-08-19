@@ -83,6 +83,9 @@ Displays content in terminal
 A basic terminal-based text editor
 >nano file.txt
 
+![alt text](<Screenshot from 2025-08-19 06-22-54.png>)
+
+![alt text](<Screenshot from 2025-08-19 06-23-37.png>)
 * Use arrows to move
 * `CTRL + O` to save
 * `CTRL + X` to exit
@@ -90,22 +93,38 @@ A basic terminal-based text editor
 ### clear-  Clears the terminal
 >clear
 
+![alt text](<Screenshot from 2025-08-19 16-23-36.png>)
+
+![alt text](<Screenshot from 2025-08-19 16-39-08.png>)
+
 Shortcut:- ctrl + L
 ## System Commands
 ### echo- Print text
+
+![alt text](<Screenshot from 2025-08-19 16-46-17.png>)
 Useful for debugging or scripting
 ## whoami- Show Current User
+
+![alt text](<Screenshot from 2025-08-19 16-47-25.png>)
 >whoami
 ### man- Manual for Any Command
+
+![alt text](<Screenshot from 2025-08-19 16-50-03.png>)
+
+![alt text](<Screenshot from 2025-08-19 16-50-39.png>)
 >man ls
 
 Use q to quit the manual
 ## Searching and Finding
 ### find- Locate files
+
+![alt text](<Screenshot from 2025-08-19 17-01-59.png>)
 >find . -name "*.txt"
 
 🔍 Finds all .txt files in current folder and subfolders.
 ### grep- Search inside files
+
+![alt text](<Screenshot from 2025-08-19 17-04-35.png>)
 >grep "hello" file.txt
 
 🔍 Searches for the word hello inside file.txt.
