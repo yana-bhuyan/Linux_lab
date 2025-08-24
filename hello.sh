@@ -1,12 +1,13 @@
 #!/bin/bash
-# This is a simple shell script
 
- read -p "Enter a number:" number
-
-if (( number > 10 ));
+echo "Enter a number:"
+read num
+ 
+if [ $num -gt 10 ]
 then
- echo "The number $number is greater than 10"
+ echo "The number $num is greater than 10"
 
-else
- echo "The number $number is not greater than 10"
+else 
+ echo "The number $num is  10 or smaller"
+
 fi
