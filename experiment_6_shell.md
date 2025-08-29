@@ -10,7 +10,9 @@ Example: `hello.sh`
 >#!/bin/bash\
 echo "Hello, World!"
 
-![alt text](<Screenshot from 2025-08-28 23-31-39-1.png>)
+![alt text](<Screenshot from 2025-08-28 23-31-39-2.png>)
+
+![alt text](<Screenshot from 2025-08-28 23-33-59-1.png>)
 Run it:
 >chmod +x hello.sh  # make it executable
 ./hello.sh
