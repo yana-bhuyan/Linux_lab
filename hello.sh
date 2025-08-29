@@ -1,4 +1,14 @@
 #!/bin/bash
-# This is a simple shell cript
 
-echo "Hello, World!"
+greet () {
+echo "Hello, $1"
+
+}
+
+greet Yana
+greet World
+
+
+
+
+
