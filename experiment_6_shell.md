@@ -34,7 +34,7 @@ age=18
 >echo "My name is $name and I am $age years old."
 
 Output:
->My name is Vibhu and I am 37 years old.
+>My name is Yana and I am 18 years old.
 
 ![alt text](<Screenshot from 2025-08-28 23-36-28.png>)
 
